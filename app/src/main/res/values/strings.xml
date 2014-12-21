@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ActionBar</string>
+
+    <!-- ActionBar -->
+    <string name="copiar">Copiar</string>
+    <string name="pegar">Pegar</string>
+    <string name="compartir">compartir</string>
+    <string name="buscar">buscar</string>
+
+    <!-- EditText -->
+    <string name="texto">Desarrollando Android</string>
+
+    <!-- Button -->
+    <string name="boton">Segunda Actividad</string>
+
+    <!-- Toast -->
+    <string name="copiado">El texto ha sido copiado.</string>
+
+    <!-- Toast Spinner -->
+    <string name="cero">Has seleccionado Cupcake.</string>
+    <string name="uno">Has seleccionado Donut.</string>
+    <string name="dos">Has seleccionado Eclair.</string>
+    <string name="tres">Has seleccionado Froyo.</string>
+    <string name="cuatro">Has seleccionado Gingerbread.</string>
+    <string name="cinco">Has seleccionado Honeycomb.</string>
+    <string name="seis">Has seleccionado Ice Cream Sandwich.</string>
+    <string name="siete">Has seleccionado Jelly Bean.</string>
+    <string name="ocho">Has seleccionado KitKat.</string>
+    <string name="nueve">Has seleccionado Lolipop.</string>
+
+    <!-- Spinner -->
+    <string-array name="datos">
+        <item>Cupcake</item>
+        <item>Donut</item>
+        <item>Eclair</item>
+        <item>Froyo</item>
+        <item>Gingerbread</item>
+        <item>HoneyComb</item>
+        <item>Ice Cream Sandwich</item>
+        <item>Jelly Bean</item>
+        <item>KitKat</item>
+        <item>Lollipop</item>
+    </string-array>
+
+    <!-- Navigation Drawer -->
+    <string-array name="datosLista">
+        <item>Opción 1</item>
+        <item>Opción 2</item>
+        <item>Opción 3</item>
+        <item>Opción 4</item>
+        <item>Opción 5</item>
+        <item>Opción 6</item>
+        <item>Opción 7</item>
+        <item>Opción 8</item>
+        <item>Opción 9</item>
+        <item>Opción 10</item>
+    </string-array>
+
+    <!-- Toast Navigation Drawer -->
+    <string name="Puno">Has seleccionado la opción 1.</string>
+    <string name="Pdos">Has seleccionado la opción 2.</string>
+    <string name="Ptres">Has seleccionado la opción 3.</string>
+    <string name="Pcuatro">Has seleccionado la opción 4.</string>
+    <string name="Pcinco">Has seleccionado la opción 5.</string>
+    <string name="Pseis">Has seleccionado la opción 6.</string>
+    <string name="Psiete">Has seleccionado la opción 7.</string>
+    <string name="Pocho">Has seleccionado la opción 8.</string>
+    <string name="Pnueve">Has seleccionado la opción 9.</string>
+    <string name="Pdiez">Has seleccionado la opción 10.</string>
+
+    <!-- Icono Navigation Drawer -->
+    <string name="abrir">Abrir</string>
+    <string name="cerrar">Cerrar</string>
+    
+    <!-- Tabs -->
+    <string name="menuActionBar">Menús y ActionBar</string>
+    <string name="fundamentos">Fundamentos Android</string>
+    <string name="gMaps">Google Maps Android</string>
+
+    <!-- MenuActionBar -->
+    <string name="menuActionBarTab">Pestaña Menús y ActionBar.</string>
+    <!-- MenuActionBar -->
+    <string name="fundamentosAndroidTab">Pestaña fundamentos Android.</string>
+    <!-- MenuActionBar -->
+    <string name="googleMapsTab">Pestaña Google Maps Android APIv2.</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".MainActivity">
+
+    <item
+        android:id="@+id/pegar"
+        android:title="@string/pegar"
+        android:icon="@drawable/ic_action_paste"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/copiar"
+        android:title="@string/copiar"
+        android:icon="@drawable/ic_action_copy"
+        app:showAsAction="ifRoom|withText" />
+
+    <item
+        android:id="@+id/compartir"
+        android:title="@string/compartir"
+        android:icon="@drawable/ic_action_share"
+        app:showAsAction="ifRoom"
+        app:actionProviderClass="android.support.v7.widget.ShareActionProvider" />
+
+    <item
+        android:id="@+id/buscar"
+        android:title="@string/buscar"
+        android:icon="@drawable/ic_action_search"
+        app:showAsAction="ifRoom|collapseActionView"
+        app:actionViewClass="android.widget.SearchView" />
+
+</menu>
